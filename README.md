@@ -1,5 +1,4 @@
-# CountdownNumbers
-Code Kata: Countdown Numbers Game Solver
+# Code Kata: Countdown Numbers Game Solver
 
 You are given 6 numbers, chosen at random from the set {1, 2, 3, 4, 5, 6, 8, 9, 10, 25, 50, 75, 100}, 
 and a random target number between 100 and 999. 
