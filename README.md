@@ -5,8 +5,8 @@ You are given 6 numbers, chosen at random from the set {1, 2, 3, 4, 5, 6, 8, 9, 
 and a random target number between 100 and 999. 
 
 The aim is to use the six given numbers and the four common arithmetic operations 
-(addition, subtraction, multiplication, division; all over the rational numbers) to generate the target 
-- or as close as possible either side. 
+(addition, subtraction, multiplication, division; all over the rational numbers) to generate the target
+or as close as possible either side. 
 
 Each number may only be used once at most, while each arithmetic operator may be used any number of times 
 (including zero.) Note that it does not matter how many numbers are used.
